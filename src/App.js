@@ -20,11 +20,14 @@ const particlesOptions = {
           }
         },
        size: {
-           value:2.3
+           value:2.7
          },
        opacity:{
            value:0.3
-       } 
+       },
+       line_linked:{
+         opacity: 0.3
+       }
       } 
     };
 
